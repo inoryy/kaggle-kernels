@@ -1,3 +1,3 @@
 # Kaggle Kernels
 
-Repo dump of my Kaggle kernels in Jupyter Notebook form.
+My Kaggle kernels in Jupyter notebook form
